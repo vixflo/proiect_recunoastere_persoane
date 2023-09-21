@@ -2,6 +2,8 @@
 
 Structura unui proiect de dezvoltare, antrenare și evaluare a modelelor neuronale poate varia în funcție de preferințele și necesitățile tale, dar voi propune o structură de bază care să includă toate componentele menționate până acum. Iată o structură de bază pentru proiectul tău:
 
+### Iată o schiță demo cu structura proiectului
+
 ```
 proiect_recunoastere_persoane/
 │
